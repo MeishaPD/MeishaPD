@@ -14,7 +14,7 @@
 - **Tailwind CSS**
 - **PHP**, **Laravel**
 - **Supabase**, **Firebase**
-- **MySQL**, **MongoDB**
+- **MySQL**, **MongoDB**, **PostgreSQL**
 
 **Mobile Development**
 - **Kotlin (Jetpack Compose)**
